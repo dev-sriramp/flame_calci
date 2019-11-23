@@ -1,0 +1,22 @@
+h3{
+   color:red;
+   background-color:pink;
+   text-align:center;
+}
+body{
+    background-color:#ff007f;
+}
+p{
+   text-align:center;
+   text-transform:capitalize;
+   font-weight:bolder;
+   font-size:x-large;
+   color:white;
+   font-weight:bolder;
+}
+script{
+   text-align:center;
+   font-weight:bolder;
+   font-size:x-large;
+   color:white;
+   }
