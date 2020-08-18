@@ -14,7 +14,7 @@ font-size:100px;
 
 </style>
 
-</hea>
+</head>
 
 <body>
 
